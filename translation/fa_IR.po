@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr AMP\n"
+"POT-Creation-Date: 2022-08-02 13:04+0430\n"
+"PO-Revision-Date: 2022-08-02 13:04+0430\n"
+"Last-Translator: Farshadi <pmpr.ir@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Source-Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: src/Pmpr/Module/SVG/SVG.php:198
+msgid ""
+"Sorry, this file couldn't be sanitized so for security reasons wasn't "
+"uploaded"
+msgstr ""
+"متاسفم، قادر به پاکسازی فایل مورد نظر نبودیم، به دلایل امنیتی فایل آپلود "
+"نشد"
+
+#: src/Pmpr/Module/SVG/SVG.php:363
+msgid "Full Size"
+msgstr "اندازه کامل"
+
+#: src/Pmpr/Module/SVG/SVG.php:364
+msgid "Thumbnail"
+msgstr "تصویر بند انگشتی"
+
+#: src/Pmpr/Module/SVG/SVG.php:365
+msgid "Medium"
+msgstr "متوسط"
+
+#: src/Pmpr/Module/SVG/SVG.php:366
+msgid "Large"
+msgstr "بزرگ"
+
+#~ msgid "AMP"
+#~ msgstr "شتابدهی موبایل"
+
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#~ msgid "Enable AMP"
+#~ msgstr "فعال سازی شتابدهی موبایل"
+
+#~ msgid "Endpoint"
+#~ msgstr "نقطه پایانی"
+
+#~ msgid "Exclude Posts"
+#~ msgstr "نوشته‌های مستثنی"
+
