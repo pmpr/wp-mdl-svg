@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Pmpr AMP\n"
+"Project-Id-Version: Pmpr SVG\n"
 "POT-Creation-Date: 2022-08-02 13:04+0430\n"
 "PO-Revision-Date: 2022-08-02 13:04+0430\n"
 "Last-Translator: Farshadi <pmpr.ir@gmail.com>\n"
