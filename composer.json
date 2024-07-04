@@ -10,12 +10,12 @@
     "svg"
   ],
   "require": {
-    "php": ">=8.3",
+    "php": ">=8.2",
     "enshrined/svg-sanitize": "0.13.3",
     "pmpr-cmn/wp-cmn-foundation": "~1.4"
   },
   "prod-require": {
-    "php": "8.3",
+    "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
@@ -28,5 +28,5 @@
     ]
   },
   "minimum-stability": "dev",
-  "tag": "1.0.16"
+  "tag": "1.0.17"
 }
