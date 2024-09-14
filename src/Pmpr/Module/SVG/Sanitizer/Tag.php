@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66cf4bc9dd954             |
+    |             66e5ecbd96376             |
     |_______________________________________|
 */
- namespace Pmpr\Module\SVG\Sanitizer; use enshrined\svgSanitize\data\AllowedTags; use Pmpr\Common\Foundation\Functions\Traits\HelperTrait; class Tag extends AllowedTags { use HelperTrait; public static function getTags() { $kmmywmgcgwceeqii = parent::getTags(); return self::iwgqamekocwaigci()->mmsykuomogaqoaye()->ocksiywmkyaqseou("\163\x76\147\137\x61\154\154\x6f\x77\145\144\137\x74\x61\x67\x73", $kmmywmgcgwceeqii); } }
+ namespace Pmpr\Module\SVG\Sanitizer; use enshrined\svgSanitize\data\AllowedTags; use Pmpr\Common\Foundation\Functions\Traits\HelperTrait; class Tag extends AllowedTags { use HelperTrait; public static function getTags() { $kmmywmgcgwceeqii = parent::getTags(); return self::iwgqamekocwaigci()->mmsykuomogaqoaye()->ocksiywmkyaqseou("\x73\166\x67\x5f\141\x6c\154\157\x77\x65\144\137\x74\141\147\x73", $kmmywmgcgwceeqii); } }
