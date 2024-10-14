@@ -1,33 +1,9 @@
 {
-  "name": "pmpr-mdl/wp-mdl-svg",
-  "type": "project",
-  "license": "proprietary",
-  "description": "SVG Module for Wordpress",
-  "keywords": [
-    "wordpress",
-    "package",
-    "module",
-    "svg"
-  ],
-  "require": {
-    "php": ">=8.2",
-    "enshrined/svg-sanitize": "0.13.3",
-    "pmpr-cmn/wp-cmn-foundation": "~1.4"
-  },
   "prod-require": {
     "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
-  "autoload": {
-    "psr-4": {
-      "Pmpr\\Module\\SVG\\": "src/Pmpr/Module/SVG"
-    },
-    "files": [
-      "index.php"
-    ]
-  },
-  "minimum-stability": "dev",
-  "tag": "1.0.21",
-  "timestamp": "1726671182"
+  "tag": "1.0.22",
+  "timestamp": "1728924500"
 }
